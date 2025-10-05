@@ -4,7 +4,7 @@ Hii Guys!!
 
 SuperMarket-Management-System is a comprehensive Java and MySQL-based platform designed to streamline supermarket operations, including inventory, sales, and customer management. Its modular architecture features intuitive GUI forms for managing products, categories, suppliers, and billing, making it a powerful tool for developers building retail management solutions.
 
-##Why SuperMarket-Management-System?
+## Why SuperMarket-Management-System?
 
 This project simplifies complex supermarket workflows with a structured, maintainable codebase. The core features include:
 
